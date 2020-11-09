@@ -8,13 +8,11 @@ class Dataset(pylexibank.Dataset):
     id = "othaniel2017"
 
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},
-        missing_data=('', ' '),
-        strip_inside_brackets=True
+        brackets={"(": ")"}, missing_data=("", " "), strip_inside_brackets=True
     )
 
     def cmd_makecldf(self, args):
-        data = self.raw_dir.read_csv('raw.csv', dicts=True)
+        data = self.raw_dir.read_csv("raw.csv", dicts=True)
         args.writer.add_sources()
         languages = args.writer.add_languages(lookup_factory="Name")
 

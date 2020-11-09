@@ -138,7 +138,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 137_liftv,lift (v),501,LIFT
 138_lightnotheavy,light (not heavy),1052,LIGHT (WEIGHT)
 139_lion,lion,1386,LION
-140_liveat,live (at),1099,RESIDE
+140_liveat,live (at),363,"DWELL (LIVE, RESIDE)"
 141_livebealive,live (be alive),1422,BE ALIVE
 142_liver,liver,1224,LIVER
 143_locustbeantree,locust bean tree,,
@@ -203,7 +203,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 202_see,see,1409,SEE
 203_seed,seed,714,SEED
 204_seven,seven,1704,SEVEN
-205_shadow,shadow,2275,SHADOW
+205_shadow,shadow,1388,SHADE
 206_shakeobject,shake(object),1909,SHAKE
 207_shame,shame,1776,SHAME
 208_sharp,sharp,1396,SHARP

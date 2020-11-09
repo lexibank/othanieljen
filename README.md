@@ -1,8 +1,10 @@
-# Jen Cluster Comparative Wordlist
+# CLDF dataset derived from Othaniel's "Jen Cluster Comparative Wordlist" from 2017
 
 Cite the source dataset as
 
 > Othaniel, Nlabephee Kefas. 2017. A phonological comparative study of the Jen language cluster. (MA thesis, Jos: Theological College of Northern Nigeria; 1–83pp.)
+
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -20,3 +22,13 @@ Conceptlists in Concepticon:
 - **Lexemes:** 2,999
 - **Sources:** 1
 - **Synonymy:** 1.00
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Nlabephee Kefas Othaniel | | data collection | DataCollector
+Kristina-Pianykh | @Kristina-Pianykh  | initial code | Author
+Christoph Rzymski | @chrzyki  | maintainer | Author
+
+

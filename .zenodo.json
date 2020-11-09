@@ -1,0 +1,32 @@
+{
+    "title": "CLDF dataset derived from Othaniel's \"Jen Cluster Comparative Wordlist\" from 2017",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Kristina-Pianykh"
+        },
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Nlabephee Kefas Othaniel",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Othaniel, Nlabephee Kefas. 2017. A phonological comparative study of the Jen language cluster. (MA thesis, Jos: Theological College of Northern Nigeria; 1\u201383pp.)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

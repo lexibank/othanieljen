@@ -1,6 +1,7 @@
 {
-    "title": "Jen Cluster Comparative Wordlist",
+    "title": "CLDF dataset derived from Othaniel's \"Jen Cluster Comparative Wordlist\" from 2017",
     "url": null,
     "citation": "Othaniel, Nlabephee Kefas. 2017. A phonological comparative study of the Jen language cluster. (MA thesis, Jos: Theological College of Northern Nigeria; 1–83pp.)",
-    "conceptlist": ["Othaniel-2017-300"]
+    "conceptlist": ["Othaniel-2017-300"],
+    "license": "CC-BY-4.0"
 }
