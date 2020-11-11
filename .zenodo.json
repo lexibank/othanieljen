@@ -7,16 +7,21 @@
     ],
     "creators": [
         {
-            "name": "Kristina-Pianykh"
-        },
-        {
-            "name": "Christoph Rzymski"
+            "name": "Nlabephee Kefas Othaniel"
         }
     ],
     "contributors": [
         {
             "name": "Nlabephee Kefas Othaniel",
             "type": "DataCollector"
+        },
+        {
+            "name": "Kristina-Pianykh",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
         }
     ],
     "communities": [
