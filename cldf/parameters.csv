@@ -28,7 +28,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 27_burn,burn,2102,BURN
 28_bury,bury,1719,BURY
 29_bush,bush,1683,BUSH
-30_calabash,calabash,411,GOURD
+30_calabash,calabash,3918,CALABASH
 31_callv,call (v),1084,CALL
 32_carvingaxe,carving axe,677,AXE
 33_cassava,cassava,925,CASSAVA
@@ -104,7 +104,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 103_grayhair,gray hair,,
 104_greet,greet,3552,GREET
 105_grind,grind,1033,GRIND
-106_groundnuts,groundnuts,595,GROUNDNUTS
+106_groundnuts,groundnuts,595,GROUNDNUT (PEANUT)
 107_gruel,gruel,1167,GRUEL
 108_guineacorn,guinea corn,347,SORGHUM
 109_hair,hair,1040,HAIR

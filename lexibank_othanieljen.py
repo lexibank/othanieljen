@@ -8,7 +8,9 @@ class Dataset(pylexibank.Dataset):
     id = "othaniel2017"
 
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"}, missing_data=("", " "), strip_inside_brackets=True
+        brackets={"(": ")"}, missing_data=("", " ", "-"), 
+        replacements=[("ɗɨ̀ŋvi ̀", "ɗɨ̀ŋvi"), (" ", "_")],
+        strip_inside_brackets=True
     )
 
     def cmd_makecldf(self, args):
