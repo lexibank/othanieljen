@@ -5,7 +5,7 @@ from clldutils.misc import slug
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
-    id = "othaniel2017"
+    id = "othanieljen"
 
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"}, missing_data=("", " ", "-"), 
