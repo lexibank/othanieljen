@@ -32,7 +32,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 9,937
-- **Segments:** 231 (0 BIPA errors, 0 CLTS sound class errors, 231 CLTS modified)
+- **Segments:** 231 (0 BIPA errors, 0 CTLS sound class errors, 231 CLTS modified)
 - **Inventory size (avg):** 101.80
 
 # Contributors
@@ -40,8 +40,9 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Nlabephee Kefas Othaniel | | data collection | DataCollector, Author
-Kristina-Pianykh | @Kristina-Pianykh  | initial code | Other
-Christoph Rzymski | @chrzyki  | patron | Other
+Kristina-Pianykh | @Kristina-Pianykh  | initial code | Editor
+Christoph Rzymski | @chrzyki  | patron | Editor
+Johann-Mattis List | @lingulist | orthography profile | Editor
 
 
 
