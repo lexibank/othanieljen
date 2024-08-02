@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 10
-- **Concepts:** 300
+- **Varieties:** 10 (linked to 10 different Glottocodes)
+- **Concepts:** 300 (linked to 285 different Concepticon concept sets)
 - **Lexemes:** 2,998
 - **Sources:** 1
 - **Synonymy:** 1.00
