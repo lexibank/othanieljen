@@ -1,11 +1,18 @@
+import attr
 import pylexibank
 from clldutils.path import Path
 from clldutils.misc import slug
 
 
+@attr.s
+class CustomLanguage(pylexibank.Language):
+    Region = attr.ib(default=None)
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "othanieljen"
+    language_class = CustomLanguage
 
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},
